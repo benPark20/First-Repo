@@ -10,3 +10,5 @@ then git add .
 then git commit -m ""  
 then git push  
 *hopefully*  
+It worked ~~that took way too long~~  
+but i figured it out!
